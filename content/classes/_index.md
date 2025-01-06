@@ -3,6 +3,10 @@ title: "Teaching"
 description: "List of the different tutorials I gave."
 ---
 
+### Academic year 2023/2024
+
+- [Graphs, Games, and Operations Research](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), first year of Mathematics master.
+
 ### Academic year 2022/2023
 
 - Linear programming, first year of Mathematics master, 
