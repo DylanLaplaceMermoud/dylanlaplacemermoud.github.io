@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Dylan Laplace Mermoud
-          subtitle: "I currently am a postdoctoral researcher in quantum algorithms at ENSTA - Institut Polytechnique de Paris. I also work on cooperative game theory, combinatorial geometry and algebraic combinatorics."
+          subtitle: "I am currently a postdoctoral researcher in quantum algorithms at ENSTA - Institut Polytechnique de Paris. I also work on cooperative game theory, combinatorial geometry and algebraic combinatorics."
           imageUrl: "photo.png"
           imageWidth: 160
           imageHeight: 160
