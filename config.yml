@@ -52,8 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Dylan Laplace Mermoud
-          subtitle: "I am a postdoctoral researcher of <mark>[Andrea Simonetto](https://perso.ensta-paris.fr/~simonetto/)</mark> in quantum algorithms at the mathematics department of <mark>[ENSTA - Institut Polytechnique de Paris](https://uma.ip-paris.fr/en/research/oc-optimisation-and-control)</mark>, co-supervised by <mark>[Sourour Elloumi](https://perso.ensta-paris.fr/~elloumi/)</mark>. I am also affiliated with the combinatorial optimization team in the CEDRIC lab at the <mark>[Conservatoire National des Arts et Métiers](http://cedric.cnam.fr/lab/equipes/oc/)</mark>. 
-          I work on cooperative game theory, combinatorial geometry and algebraic combinatorics as well."
+          subtitle: "I am a postdoctoral researcher in quantum algorithms at the mathematics department of ENSTA from the Institut Polytechnique de Paris. I am also affiliated with the combinatorial optimization team in the CEDRIC lab at the Conservatoire National des Arts et Métiers. I am supervised by Andrea Simonetto, and co-supervised by Sourour Elloumi. Besides quantum algorithms, my research focuses on cooperative game theory and algebraic combinatorics."
           imageUrl: "photo.png"
           imageWidth: 160
           imageHeight: 160
@@ -70,10 +69,10 @@ params:
             # - name: Archive
             #   url: archive/
     socialIcons:
-        - name: hal
-          url: https://hal.science/search/index/?q=*&authIdPerson_i=1215683
-        - name: arXiv
-          url: https://arxiv.org/search/?query=Dylan+Laplace+Mermoud&searchtype=all&source=header
+        # - name: hal
+        #   url: https://hal.science/search/index/?q=*&authIdPerson_i=1215683
+        # - name: arXiv
+        #   url: https://arxiv.org/search/?query=Dylan+Laplace+Mermoud&searchtype=all&source=header
         - name: orcid
           url: https://orcid.org/0000-0002-1508-9656
         # - name: CV
