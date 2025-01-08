@@ -52,7 +52,8 @@ params:
     profileMode:
           enabled: true
           title: Dylan Laplace Mermoud
-          subtitle: "I am a postdoctoral researcher of <mark>[Andrea Simonetto](https://perso.ensta-paris.fr/~simonetto/)</mark> in quantum algorithms at <mark>[ENSTA - Institut Polytechnique de Paris](https://uma.ip-paris.fr/en/research/oc-optimisation-and-control)</mark>. I also work on cooperative game theory, combinatorial geometry and algebraic combinatorics."
+          subtitle: "I am a postdoctoral researcher of <mark>[Andrea Simonetto](https://perso.ensta-paris.fr/~simonetto/)</mark> in quantum algorithms at the mathematics department of <mark>[ENSTA - Institut Polytechnique de Paris](https://uma.ip-paris.fr/en/research/oc-optimisation-and-control)</mark>, co-supervised by <mark>[Sourour Elloumi](https://perso.ensta-paris.fr/~elloumi/)</mark>. I am also affiliated with the combinatorial optimization team in the CEDRIC lab at the <mark>[Conservatoire National des Arts et Métiers](http://cedric.cnam.fr/lab/equipes/oc/)</mark>. 
+          I work on cooperative game theory, combinatorial geometry and algebraic combinatorics as well."
           imageUrl: "photo.png"
           imageWidth: 160
           imageHeight: 160
