@@ -17,7 +17,7 @@ Dylan Laplace Mermoud, Pierre Popoli<br>
 
 ### --------------- Pre-prints
 
-> <span style="color: #008080">[Projection onto the core: An aptimal reallocation to correct market failure](https://arxiv.org/abs/2411.11810v1)</span><br>
+> <span style="color: #008080">[Projection onto the core: An optimal reallocation to correct market failure](https://arxiv.org/abs/2411.11810v1)</span><br>
 Dylan Laplace Mermoud, 2024
 
 > <span style="color: #008080">[Formation of steady coalitions](https://arxiv.org/abs/2410.05087v2)</span><br>
