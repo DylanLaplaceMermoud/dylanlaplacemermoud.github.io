@@ -3,6 +3,15 @@ title: "Talks"
 description: "List of the different opportunities I had to present my work."
 ---
 
+### --------------- 2025
+
+- 20th [European Meeting on Game Theory (SING20)](https://sites.google.com/view/sing20), Maastricht, The Netherlands (forthcoming)
+- International Conference on Quantum Computing ([ICoQC2025](https://icoqc2025.sciencesconf.org/?lang=en)), Paris, France (forthcoming)
+- 26th [ROADEF congress](https://roadef2025.org), Champs-sur-Marne, France
+- Conservatoire National des Arts et Métiers, Combinatorial optimization (OC) group seminar, Paris, France
+- ENSTA - Institut Polytechnique de Paris, Optimization and Control (OC) group seminar, Palaiseau, France
+
+
 ### --------------- 2024
 
 - [Programme Gaspard Monge (PGMO) days 2024](https://fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/), Palaiseau, France
