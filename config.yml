@@ -18,7 +18,7 @@ menu:
           url: talks/
           weight: 2
         - name: Teaching
-          url: classes/
+          url: teaching/
           weight: 3 
         - name: Resume
           url: cv.pdf
