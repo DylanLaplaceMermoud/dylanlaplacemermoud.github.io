@@ -8,7 +8,10 @@ description: "List of the different tutorials and classes I gave."
 
 - [Game theory](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), first year of Mathematics or Computer Science master, 
     - [First lecture note](./2024_2025/GT_1.pdf) (in french), 
-    - [Second lecture note](./2024_2025/GT_2.pdf) (in french).
+    - [Second lecture note](./2024_2025/GT_2.pdf) (in french), 
+    - [Third lecture note](./2024_2025/GT_3.pdf) (in french), 
+    - [Fourth lecture note](./2024_2025/GT_4.pdf) (in french), 
+    - [Fifth lecture note](./2024_2025/GT_5.pdf) (in french), 
 - [Graph theory](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), first year of Mathematics or Computer Science master. 
 
 ### Academic year 2023/2024
