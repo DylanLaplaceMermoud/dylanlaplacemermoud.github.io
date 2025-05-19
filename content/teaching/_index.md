@@ -7,11 +7,18 @@ description: "List of the different tutorials and classes I gave."
 ### Academic year 2024/2025
 
 - [Game theory](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), first year of Mathematics or Computer Science master, 
-    - [First lecture note](./2024_2025/GT_1.pdf) (in french), 
-    - [Second lecture note](./2024_2025/GT_2.pdf) (in french), 
-    - [Third lecture note](./2024_2025/GT_3.pdf) (in french), 
-    - [Fourth lecture note](./2024_2025/GT_4.pdf) (in french), 
-    - [Fifth lecture note](./2024_2025/GT_5.pdf) (in french), 
+    - Notes de cours : 
+        - [Première séance](./2024_2025/GT_1.pdf) (in french), 
+        - [Deuxième séance](./2024_2025/GT_2.pdf) (in french), 
+        - [Troisième séance](./2024_2025/GT_3.pdf) (in french), 
+        - [Quatrième séance](./2024_2025/GT_4.pdf) (in french), 
+        - [Cinquiète séance](./2024_2025/GT_5.pdf) (in french), 
+    - Sujets de TD corrigés : 
+        - [Première séance](./2024_2025/TD1_corrige.pdf) (in french),
+        - [Deuxième séance](./2024_2025/TD2_corrige.pdf) (in french),
+        - [Troisième séance](./2024_2025/TD3_corrige.pdf) (in french),
+        - [Quatrième séance](./2024_2025/TD4_corrige.pdf) (in french),
+        - [Cinquième séance](./2024_2025/TD5_corrige.pdf) (in french),
 - [Graph theory](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), first year of Mathematics or Computer Science master. 
 
 ### Academic year 2023/2024
