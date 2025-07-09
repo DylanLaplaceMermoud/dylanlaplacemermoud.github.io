@@ -3,11 +3,11 @@ title: "Research"
 description: "Research activities and outcomes."
 ---
 
-My work belongs to three overlapping fields: quantum information and algorithms, algebraic combinatorics, and mathematical economics. I participate in the [HQI initiative](https://www.hqi.fr/en/initiative/), from the french national quantum plan, which funds my postoc together with the [Fondation Mathématique Jacques Hadamard](https://fondation-hadamard.fr/en/). Currently, I am working on 
+My work belongs to three overlapping fields: quantum information and algorithms, algebraic combinatorics, and mathematical economics. I participate in the [HQI initiative](https://www.hqi.fr/en/initiative/), from the French national quantum plan, which funds my postdoc together with the [Fondation Mathématique Jacques Hadamard](https://fondation-hadamard.fr/en/). Currently, I am working on 
 - quantum walks for optimization, 
 - binary high-order polynomial optimization, 
 - interaction between high performance computing and quantum algorithms, 
-- the structure and geomtry of balanced games, 
+- the structure and geometry of balanced games, 
 - the algebraic structures of polymatroids, deformed permutohedra, and the resonance arrangement. 
 
 ## Supervision

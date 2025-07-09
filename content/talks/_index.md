@@ -5,6 +5,7 @@ description: "List of the different opportunities I had to present my work."
 
 ### --------------- 2025
 
+- [Q] Université Aix-Marseille, [CANA](https://cana.lis-lab.fr) research group seminar, Marseille, France (forthcoming)
 - [Q] [C12](https://www.c12qe.com), R&D seminar, Paris, France
 - [Q] Université Paris Cité, [IRIF](https://www.irif.fr/en/equipes/algocomp/quantum/index) quantum team seminar, Paris, France
 - [AC] 20th [European Meeting on Game Theory (SING20)](https://sites.google.com/view/sing20), Maastricht, The Netherlands
