@@ -36,7 +36,7 @@ Dylan Laplace Mermoud, Pierre Popoli<br>
 > <span style="color: #008080">[Diffusion in dynamic networks with continuous inputs to allocate responsibility](https://shs.hal.science/halshs-05046082v1)</span><br>
 Rosa van den Ende, Dylan Laplace Mermoud, 2025<br>
 
-> <span style="color: #008080">[Attraction of the core and the cohesion flow](https://doi.org/10.1007/s11238-025-10060-0)</span><br>
+> <span style="color: #008080">[Attraction of the core and the cohesion flow](https://rdcu.be/evK06)</span><br>
 Dylan Laplace Mermoud<br>
 *Theory and Decision*, 2025<br>
 
