@@ -17,7 +17,7 @@ My work belongs to three overlapping fields: quantum information and algorithms,
 
 ## Publications
 
-### --------------- Quantum information and algorithms
+### --------------- Quantum algorithms
 
 > <span style="color: #008080">[Variational quantum algorithms for permutation-based combinatorial problems: Optimal ansatz generation with applications to quadratic assignment problems and beyond](https://arxiv.org/abs/2505.05981)</span><br>
 Dylan Laplace Mermoud, Andrea Simonetto, Sourour Elloumi, 2025<br>

@@ -3,8 +3,11 @@ title: "Talks"
 description: "List of the different opportunities I had to present my work."
 ---
 
+[Q]: quantum talk, [GT]: game theory/economics talk, [AC]: algebraic combinatorics talk
+
 ### --------------- 2025
 
+- [Q] IBM Research Europe - Zurich, [Quantum Optimization project](https://research.ibm.com/projects/quantum-optimization), Zurich, Switzerland (forthcoming)
 - [Q] Université Aix-Marseille, [CANA](https://cana.lis-lab.fr) research group seminar, Marseille, France (forthcoming)
 - [Q] [C12](https://www.c12qe.com), R&D seminar, Paris, France
 - [Q] Université Paris Cité, [IRIF](https://www.irif.fr/en/equipes/algocomp/quantum/index) quantum team seminar, Paris, France
@@ -51,6 +54,4 @@ description: "List of the different opportunities I had to present my work."
 - [GT] [Programme Gaspard Monge (PGMO) days 2021](https://fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/), Palaiseau, France
 - [GT] 16th [European Meeting on Game Theory (SING16)](https://congresos.ugr.es/sing16/), Granada (remote), Spain
 - [GT] Institut Élie Cartan, [PhD seminar](https://iecl.univ-lorraine.fr/evenements/seminaires/groupe-de-travail-doctorants/), Nancy, France
-
-[Q]: quantum talk, [GT]: game theory/economics talk, [AC]: algebraic combinatorics talk
  
