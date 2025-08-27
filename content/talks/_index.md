@@ -7,6 +7,7 @@ description: "List of the different opportunities I had to present my work."
 
 ### --------------- 2025
 
+- [GT/AC] 18th [Ordered Structures in Games and Decisions (OSGAD)](https://sites.google.com/view/osgad/accueil) in honor of Michel Grabisch, Paris, France (invited, forthcoming)
 - [Q] IBM Research Europe - Zurich, [Quantum Optimization project](https://research.ibm.com/projects/quantum-optimization), Zurich, Switzerland (forthcoming)
 - [Q] Université Aix-Marseille, [CANA](https://cana.lis-lab.fr) research group seminar, Marseille, France (forthcoming)
 - [Q] [C12](https://www.c12qe.com), R&D seminar, Paris, France
@@ -33,7 +34,7 @@ description: "List of the different opportunities I had to present my work."
 ### --------------- 2023
 
 - [GT] Institut Henri Poincaré, [Junior seminar in game theory](https://sites.google.com/view/seminairetheoriedesjeux/junior-seminar-20232024), Paris, France
-- [GT] 17th [Ordered Structures in Games and Decisions (OSGAD)](https://sites.google.com/view/osgad/accueil) conference, Paris, France (invited)
+- [GT] 16th [Ordered Structures in Games and Decisions (OSGAD)](https://sites.google.com/view/osgad/accueil) conference, Paris, France (invited)
 - [GT] ENSTA - Institut Polytechnique de Paris, Optimization and Control (OC) group seminar, Palaiseau, France
 - [GT] 22nd [Society for the Advancement of Economic Theory (SAET)](https://sites.google.com/view/saet2023/home) conference, Paris, France (invited)
 - [GT] 18th [European Meeting on Game Theory (SING18)](https://www.bisazzagangi.it/sing18/index.php), Messina, Italy
