@@ -22,6 +22,9 @@ My work belongs to three overlapping fields: quantum information and algorithms,
 > <span style="color: #008080">[Variational quantum algorithms for permutation-based combinatorial problems: Optimal ansatz generation with applications to quadratic assignment problems and beyond](https://arxiv.org/abs/2505.05981)</span><br>
 Dylan Laplace Mermoud, Andrea Simonetto, Sourour Elloumi, 2025<br>
 
+> <span style="color: #008080">[Sampled-Based Guided Quantum Walk: Non-variational quantum algorithm for combinatorial optimization](https://arxiv.org/abs/2509.15138)</span><br>
+Ugo Nzongani, Dylan Laplace Mermoud, Giuseppe Di Molfetta, Andrea Simonetto, 2025<br>
+
 ### --------------- Algebraic combinatorics
 
 > <span style="color: #008080">[The algebraic structures of social organizations: the operad of cooperative games](https://arxiv.org/abs/2507.01969)</span><br>
