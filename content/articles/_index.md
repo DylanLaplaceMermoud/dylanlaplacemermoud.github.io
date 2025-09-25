@@ -41,7 +41,7 @@ Rosa van den Ende, Dylan Laplace Mermoud, 2025<br>
 
 > <span style="color: #008080">[Attraction of the core and the cohesion flow](https://rdcu.be/evK06)</span><br>
 Dylan Laplace Mermoud<br>
-*Theory and Decision*, 2025<br>
+*Theory and Decision 99*, pp. 377-392, 2025<br>
 
 > <span style="color: #008080">[Projection onto the core: An optimal reallocation to correct market failure](https://arxiv.org/abs/2411.11810v1)</span><br>
 Dylan Laplace Mermoud, 2024
