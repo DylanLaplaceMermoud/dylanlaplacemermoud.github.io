@@ -3,19 +3,28 @@ title: "Teaching"
 description: "List of the different tutorials and classes I gave."
 ---
 
-## Main teacher / coordinator
+## Lectures / Cours magistraux
+
+#### Academic year 2025/2026
+
+- Quantum Computing with [Dimitri Watel](http://dimitri.watel.free.fr), second year of Mathematics and Computer Science master.
 
 #### Academic year 2024/2025
 
 - [Game theory](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), first year of Mathematics and Computer Science master, 
     - Lecture notes (in French): [première séance](./2024_2025/GT_1.pdf), [deuxième séance](./2024_2025/GT_2.pdf), [troisième séance](./2024_2025/GT_3.pdf), [quatrième séance](./2024_2025/GT_4.pdf), [cinquième séance](./2024_2025/GT_5.pdf). 
-    - Tutorials (in French): [première séance](./2024_2025/TD1_corrige.pdf), [deuxième séance](./2024_2025/TD2_corrige.pdf), [troisième séance](./2024_2025/TD3_corrige.pdf), [quatrième séance](./2024_2025/TD4_corrige.pdf), [cinquième séance](./2024_2025/TD5_corrige.pdf).
 
-## Teaching assistant 
+## Tutorials / Travaux dirigés 
+
+#### Academic year 2025/2026
+
+- Quantum Computing, second year of Mathematics and Computer Science master.
 
 #### Academic year 2024/2025
 
 - [Graph theory](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), first year of Mathematics and Computer Science master. 
+- [Game theory](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), first year of Mathematics and Computer Science master: 
+    - Sujets : [première séance](./2024_2025/TD1_corrige.pdf), [deuxième séance](./2024_2025/TD2_corrige.pdf), [troisième séance](./2024_2025/TD3_corrige.pdf), [quatrième séance](./2024_2025/TD4_corrige.pdf), [cinquième séance](./2024_2025/TD5_corrige.pdf).
 
 #### Academic year 2023/2024
 

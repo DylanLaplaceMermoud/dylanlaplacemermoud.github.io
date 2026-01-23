@@ -7,7 +7,7 @@ My work belongs to three overlapping fields: quantum information and algorithms,
 - quantum walks for optimization, 
 - binary high-order polynomial optimization, 
 - interaction between high performance computing and quantum algorithms, 
-- the structure and geometry of balanced games, 
+- the combinatorial structure and geometry of cooperative games and balanced collections, 
 - the algebraic structures of polymatroids, deformed permutohedra, and the resonance arrangement. 
 
 ## Supervision
@@ -15,7 +15,7 @@ My work belongs to three overlapping fields: quantum information and algorithms,
 - Bruno Galibert (2025), Master 1 student, on "Quantum circuit simplification", funded by a Quantum-Saclay grant.
 - Qui Loc Phan (2024), Master 1 student, on "Quantum circuit design and combinatorial optimization". 
 
-## Publications
+## Publications & preprints
 
 ### --------------- Quantum algorithms
 
@@ -35,6 +35,9 @@ Dylan Laplace Mermoud, Pierre Popoli<br>
 *EPTCS 403*, pp. 128-133, 2024<br>
 
 ### --------------- Mathematical economics
+
+> <span style="color: #008080">[On the closest balanced game](https://arxiv.org/abs/2601.15318)</span><br>
+Pedro García-Segador, Michel Grabisch, Dylan Laplace Mermoud, Pedro Miranda, 2025<br>
 
 > <span style="color: #008080">[Diffusion in dynamic networks with time-varying inputs to allocate responsibility](https://arxiv.org/abs/2301.02728)</span><br>
 Rosa van den Ende, Dylan Laplace Mermoud, 2025<br>

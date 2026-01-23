@@ -5,10 +5,16 @@ description: "List of the different opportunities I had to present my work."
 
 [Q]: quantum talk, [GT]: game theory/economics talk, [AC]: algebraic combinatorics talk
 
+### --------------- 2026
+
+- [Q] [SIAM conference on Optimization](https://www.siam.org/conferences-events/siam-conferences/op26/), Edimburgh, United Kingdom (forthcoming)
+- [Q] 27th [ROADEF congress](https://roadef2026.sciencesconf.org), Tours, France (forthcoming)
+
 ### --------------- 2025
 
-- [GT/AC] 18th [Ordered Structures in Games and Decisions (OSGAD)](https://sites.google.com/view/osgad/accueil) in honor of Michel Grabisch, Paris, France (invited, forthcoming)
-- [Q] IBM Research Europe - Zurich, [Quantum Optimization project](https://research.ibm.com/projects/quantum-optimization), Zurich, Switzerland (forthcoming)
+- [Q] University of Amsterdam, [Discrete Mathematics and Quantum Information team seminar](https://kdvi.uva.nl/research/discrete-mathematics-and-quantum-information/discrete-mathematics-and-quantum-information.html), Amsterdam, The Netherlands
+- [GT/AC] 18th [Ordered Structures in Games and Decisions (OSGAD)](https://sites.google.com/view/osgad/accueil) in honor of Michel Grabisch, Paris, France (invited)
+- [Q] IBM Research Europe - Zurich, [Quantum Optimization project](https://research.ibm.com/projects/quantum-optimization), Zurich, Switzerland
 - [Q] Université Aix-Marseille, [CANA](https://cana.lis-lab.fr) research group seminar, Marseille, France (forthcoming)
 - [Q] [C12](https://www.c12qe.com), R&D seminar, Paris, France
 - [Q] Université Paris Cité, [IRIF](https://www.irif.fr/en/equipes/algocomp/quantum/index) quantum team seminar, Paris, France
