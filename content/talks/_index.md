@@ -3,7 +3,7 @@ title: "Talks"
 description: "List of the different opportunities I had to present my work."
 ---
 
-[Q]: quantum talk, [GT]: game theory/economics talk, [AC]: algebraic combinatorics talk
+[Q]: quantum talk, [GT]: game theory talk, [AC]: algebraic combinatorics talk
 
 ### --------------- 2026
 
