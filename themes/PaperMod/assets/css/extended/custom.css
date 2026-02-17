@@ -1,0 +1,5 @@
+.post-content a,
+.post-meta a,
+.toc a:hover {
+    box-shadow: none !important;
+}
