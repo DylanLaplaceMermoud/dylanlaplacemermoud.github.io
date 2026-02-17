@@ -5,7 +5,7 @@ description: "Research activities and outcomes."
 
 My work belongs to three overlapping fields: quantum information and algorithms, algebraic combinatorics, and game theory. I participate in the [HQI initiative](https://www.hqi.fr/en/initiative/), from the French national quantum plan, which funds my postdoc together with the [Fondation Mathématique Jacques Hadamard](https://fondation-hadamard.fr/en/). 
 
-<a href="#areas-of-interest" class="button">Areas of interest</a> <a href="#supervision" class="button">Supervision</a> <a href="#publications-proceedings--preprints" class="button">Publications</a> <a href="#co-authors-in-chronological-order" class="button">Co-authors</a>
+<a href="#areas-of-interest" class="button research">Areas of interest</a> <a href="#supervision" class="button research">Supervision</a> <a href="#publications-proceedings--preprints" class="button research">Publications</a> <a href="#co-authors-in-chronological-order" class="button research">Co-authors</a>
 
 ## Areas of interest
 
@@ -19,8 +19,8 @@ Currently, I am working on
 
 ## Supervision
 
-- Bruno Galibert (2025), Master 1 student, on "Quantum circuit simplification", funded by a Quantum-Saclay grant.
-- Qui Loc Phan (2024), Master 1 student, on "Quantum circuit design and combinatorial optimization". 
+- [Bruno Galibert](https://www.linkedin.com/in/bruno-galibert/) (2025), Master 1 student, on "Quantum circuit simplification", funded by a Quantum-Saclay grant.
+- [Qui Loc Phan](https://locphan2001.github.io) (2024), Master 1 student, on "Quantum circuit design and combinatorial optimization". 
 
 ## Publications, proceedings & preprints
 

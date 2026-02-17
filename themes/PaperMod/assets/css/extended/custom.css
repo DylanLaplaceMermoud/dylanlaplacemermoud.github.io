@@ -1,5 +1,4 @@
-.post-content a,
-.post-meta a,
-.toc a:hover {
+.post-content a.research {
     box-shadow: none !important;
+    text-decoration: none !important;
 }
