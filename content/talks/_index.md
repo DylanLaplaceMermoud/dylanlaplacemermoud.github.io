@@ -8,7 +8,7 @@ description: "List of the different opportunities I had to present my work."
 ### --------------- 2026
 
 - [Q] [SIAM conference on Optimization](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, United Kingdom (forthcoming)
-- [Q] 27th [ROADEF congress](https://roadef2026.sciencesconf.org), Tours, France (forthcoming)
+- [Q] 27th [ROADEF congress](https://roadef2026.sciencesconf.org), Tours, France
 
 ### --------------- 2025
 
