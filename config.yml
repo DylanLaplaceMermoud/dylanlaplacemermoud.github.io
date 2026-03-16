@@ -14,9 +14,9 @@ menu:
         - name: Research
           url: articles/
           weight: 1
-        - name: Talks
-          url: talks/
-          weight: 2
+        # - name: Talks
+        #   url: talks/
+        #   weight: 2
         - name: Teaching
           url: teaching/
           weight: 3 
@@ -60,9 +60,9 @@ params:
           buttons:
             - name: Research
               url: articles/
-            - name: Talks
-              url: talks/
-            - name: Teaching
+            # - name: Talks
+            #   url: talks/
+            - name: Enseignement
               url: teaching/
             - name: Resume
               url: cv_laplace_mermoud.pdf
