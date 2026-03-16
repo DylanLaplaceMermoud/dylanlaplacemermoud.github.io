@@ -7,6 +7,9 @@ description: "List of the different tutorials and classes I gave."
 
 #### Année académique 2025/2026
 
+- [Théorie des jeux](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), première année de master de mathématique et informatique. 
+    - [Notes de cours](cours_tdj.pdf).
+    - Sujets de travaux dirigés : voir plus bas.
 - Informatique quantique avec [Dimitri Watel](http://dimitri.watel.free.fr), deuxième année de master de mathématiques et informatique.
     - Notes de cours "[Algorithme quantique d'estimation de phase](qpe.pdf)".
 
@@ -20,13 +23,16 @@ description: "List of the different tutorials and classes I gave."
 
 #### Année académique 2025/2026
 
+- [Théorie des jeux](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), première année de master en mathématiques et informatique.
+    - Sujets : [première séance](./2024_2025/TD1_corrige.pdf), [deuxième séance](./2024_2025/TD2_corrige.pdf), [troisième séance](./2024_2025/TD3_corrige.pdf), [quatrième séance](./2024_2025/TD4_corrige.pdf), [cinquième séance](./2024_2025/TD5_corrige.pdf).
+- [Théorie des graphes](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), première année de master en mathématiques et informatique.
 - Informatique quantique, deuxième année de master de mathématiques et informatique.
 
 #### Année académique 2024/2025
 
-- [Théorie des graphes](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), première année de master en mathématiques et informatique.
 - [Théorie des jeux](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), première année de master en mathématiques et informatique.
     - Sujets : [première séance](./2024_2025/TD1_corrige.pdf), [deuxième séance](./2024_2025/TD2_corrige.pdf), [troisième séance](./2024_2025/TD3_corrige.pdf), [quatrième séance](./2024_2025/TD4_corrige.pdf), [cinquième séance](./2024_2025/TD5_corrige.pdf).
+- [Théorie des graphes](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), première année de master en mathématiques et informatique.
 
 #### Année académique 2023/2024
 
