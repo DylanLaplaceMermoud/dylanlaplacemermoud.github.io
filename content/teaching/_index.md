@@ -24,14 +24,14 @@ description: "List of the different tutorials and classes I gave."
 #### Année académique 2025/2026
 
 - [Théorie des jeux](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), première année de master en mathématiques et informatique.
-    - Sujets : [première séance](./2024_2025/TD1.pdf), [deuxième séance](./2024_2025/TD2.pdf), [troisième séance](./2024_2025/TD3.pdf), [quatrième séance](./2024_2025/TD4.pdf), [cinquième séance](./2024_2025/TD5.pdf).
+    - Sujets : [première séance](./2025_2026/TD1.pdf), [deuxième séance](./2025_2026/TD2.pdf), [troisième séance](./2025_2026/TD3.pdf), [quatrième séance](./2025_2026/TD4.pdf), [cinquième séance](./2025_2026/TD5.pdf).
 - [Théorie des graphes](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), première année de master en mathématiques et informatique.
 - Informatique quantique, deuxième année de master de mathématiques et informatique.
 
 #### Année académique 2024/2025
 
 - [Théorie des jeux](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), première année de master en mathématiques et informatique.
-    - Sujets : [première séance](./2024_2025/TD1_corrige.pdf), [deuxième séance](./2024_2025/TD2_corrige.pdf), [troisième séance](./2024_2025/TD3_corrige.pdf), [quatrième séance](./2024_2025/TD4_corrige.pdf), [cinquième séance](./2024_2025/TD5_corrige.pdf).
+    - Sujets : [première séance](./2024_2025/TD1.pdf), [deuxième séance](./2024_2025/TD2.pdf), [troisième séance](./2024_2025/TD3.pdf), [quatrième séance](./2024_2025/TD4.pdf), [cinquième séance](./2024_2025/TD5.pdf).
 - [Théorie des graphes](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), première année de master en mathématiques et informatique.
 
 #### Année académique 2023/2024
