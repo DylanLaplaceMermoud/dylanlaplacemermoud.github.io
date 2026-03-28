@@ -13,11 +13,13 @@ description: "List of the different tutorials and classes I gave."
 - Informatique quantique avec [Dimitri Watel](http://dimitri.watel.free.fr), deuxième année de master de mathématiques et informatique.
     - Notes de cours "[Algorithme quantique d'estimation de phase](qpe.pdf)".
 
+{{< details title="Années précédentes" >}}
 #### Année académique 2024/2025
 
 - [Théorie des jeux](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), première année de master de mathématique et informatique. 
     - [Notes de cours](cours_tdj.pdf).
     - Sujets de travaux dirigés : voir plus bas.
+{{< /details >}}
 
 ## Travaux dirigés 
 
@@ -28,6 +30,7 @@ description: "List of the different tutorials and classes I gave."
 - [Théorie des graphes](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), première année de master en mathématiques et informatique.
 - Informatique quantique, deuxième année de master de mathématiques et informatique.
 
+{{< details title="Années précédentes" >}}
 #### Année académique 2024/2025
 
 - [Théorie des jeux](https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/1511/RO203-graphes-jeux-et-r-o), première année de master en mathématiques et informatique.
@@ -79,3 +82,4 @@ description: "List of the different tutorials and classes I gave."
     - [Premier examen partiel](./2019_2020/Partiel_1_maths.pdf),
     - [Second examen partial](./2019_2020/Partiel_2_maths.pdf).
 - Programmation en Python, première année de licence maths/info.
+{{< /details >}}

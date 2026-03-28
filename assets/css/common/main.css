@@ -77,3 +77,19 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+.collapsible summary {
+    font-size: 15px;
+    font-weight: var(--semibold);
+    text-transform: uppercase;
+    color: var(--gray);
+    cursor: pointer;
+}
+
+.collapsible summary:hover {
+    color: #555;
+}
+
+.collapsible[open] summary {
+    color: #333;
+}

@@ -1,0 +1,11 @@
+<details class="collapsible">
+    <summary>{{ .Get "title" | default "Click to expand" | markdownify }}</summary>
+
+    <div class="content">
+        {{ .Inner | markdownify }}
+    
+        <div class="collapse-footer">
+            <a href="#" class="collapse-link">Fermer ▲</a>
+        </div>
+    </div>
+</details>

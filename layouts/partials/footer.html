@@ -135,3 +135,17 @@
     });
 </script>
 {{- end }}
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".collapse-link").forEach(link => {
+        link.addEventListener("click", function (e) {
+            e.preventDefault();
+            const details = this.closest("details");
+            if (details) {
+                details.removeAttribute("open");
+            }
+        });
+    });
+});
+</script>
