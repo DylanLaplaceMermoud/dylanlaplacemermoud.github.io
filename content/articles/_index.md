@@ -5,7 +5,7 @@ description: "Research activities and outcomes."
 
 My work belongs to three overlapping fields: quantum information and algorithms, algebraic combinatorics, and game theory. I participate in the [HQI initiative](https://www.hqi.fr/en/initiative/), from the French national quantum plan, which funds my postdoc together with the [Fondation Mathématique Jacques Hadamard](https://fondation-hadamard.fr/en/). 
 
-<a href="#areas-of-interest" class="button research">Areas of interest</a> <a href="#supervision" class="button research">Supervision</a> <a href="#publications-proceedings--preprints" class="button research">Publications</a> <a href="#communications" class="button research">Communications</a> <a href="#co-authors-in-chronological-order" class="button research">Co-authors</a>
+<a href="#areas-of-interest" class="button research">Areas of interest</a> <a href="#supervision" class="button research">Supervision</a> <a href="#publications-proceedings--preprints" class="button research">Publications</a> <a href="#communications" class="button research">Communication</a> <a href="#collaborators" class="button research">Collaborators</a>
 
 ## Areas of interest
 
@@ -148,6 +148,22 @@ Dylan Laplace Mermoud<br>
 - [GT] Institut Élie Cartan, [PhD seminar](https://iecl.univ-lorraine.fr/evenements/seminaires/groupe-de-travail-doctorants/), Nancy, France
  
 
-## Co-authors (in chronological order)
+## Collaborators
 
-[Arthur Braida](https://arts-braido.github.io), [Pedro García Segador](https://docta.ucm.es/entities/person/5416c727-ae1e-4a30-9118-a87352c1a7be?view=grid&spc.page=1&f.dateIssued.min=2014), [Pedro Miranda](https://www.ucm.es/imi/pedro-miranda-menendez), [Ugo Nzongani](https://ugo-nzongani.github.io), [Giuseppe Di Molfetta](https://www.giuseppe-dimolfetta.com), [Victor Roca i Lucio](https://sites.google.com/view/victor-roca-i-lucio/home), [Sourour Elloumi](https://perso.ensta.fr/~elloumi/), [Andrea Simonetto](https://perso.ensta.fr/~simonetto/), [Rosa van den Ende](https://rosavandenende.github.io), [Pierre Popoli](https://sites.google.com/view/pierre-popoli-en), [Michel Grabisch](https://sites.google.com/site/michelgrabisch/), [Peter Sudhölter](https://link.springer.com/content/pdf/10.1007/s00182-024-00903-5.pdf).
+- [Corentin Bertrand](https://www.linkedin.com/in/corentinbertrand/?locale=fr_FR), Eviden Quantum Lab,
+- Andrea Zatti, Politecnico di Milano, 
+- Colin Stastny, Universität Konstanz, 
+- [Mikhail V. Bludov](https://sites.google.com/view/mikhailbludov/главная-страница), Laboratory of Combinatorial and Geometric Structures, MIPT, 
+- [Dimitri Watel](http://dimitri.watel.free.fr), CEDRIC, CNAM and ensIIE, 
+- [Arthur Braida](https://arts-braido.github.io), IRIF, Université Paris Cité, 
+- [Pedro García Segador](https://docta.ucm.es/entities/person/5416c727-ae1e-4a30-9118-a87352c1a7be?view=grid&spc.page=1&f.dateIssued.min=2014), National Statistical Institute of Spain, 
+- [Pedro Miranda](https://www.ucm.es/imi/pedro-miranda-menendez), IMI, Universidad Complutense Madrid, 
+- [Ugo Nzongani](https://ugo-nzongani.github.io), LIS, Aix-Marseille Université and UMA, ENSTA, 
+- [Giuseppe Di Molfetta](https://www.giuseppe-dimolfetta.com), LIS, Aix-Marseille Université, 
+- [Victor Roca i Lucio](https://sites.google.com/view/victor-roca-i-lucio/home), IMJ-PRG, Université Paris Cité, 
+- [Sourour Elloumi](https://perso.ensta.fr/~elloumi/), UMA, ENSTA and Cedric, CNAM, and ensIIE, 
+- [Andrea Simonetto](https://perso.ensta.fr/~simonetto/), UMA, ENSTA, 
+- [Rosa van den Ende](https://rosavandenende.github.io), CES, Université Paris I Panthéon-Sorbonne, 
+- [Pierre Popoli](https://sites.google.com/view/pierre-popoli-en), Algorithms & Complexity, University of Waterloo, 
+- [Peter Sudhölter](https://link.springer.com/content/pdf/10.1007/s00182-024-00903-5.pdf), Department of Economics, University of Southern Denmark,
+- [Michel Grabisch](https://sites.google.com/site/michelgrabisch/), CES, Université Paris I Panthéon-Sorbonne and AGATE, Charles University.
