@@ -31,17 +31,21 @@ For an updated list of articles, see [my arXiv page](https://arxiv.org/a/laplace
 
 ### --------------- Publications
 
+<span style="color: #008080">*The algebraic structures of social organizations: the operad of cooperative games*</span><br>
+Dylan Laplace Mermoud, Victor Roca i Lucio<br>
+[*Algebraic Combinatorics*](https://alco.centre-mersenne.org), 2026 &bull; 49 pages &bull; [arXiv.2507.01969](https://arxiv.org/abs/2507.01969)<br>
+
 <span style="color: #008080">*Variational quantum algorithms for permutation-based combinatorial problems: Optimal ansatz generation with applications to quadratic assignment problems and beyond*</span><br>
 Dylan Laplace Mermoud, Andrea Simonetto, Sourour Elloumi<br>
-[*Quantum 10*, p. 1998, 2026](https://doi.org/10.22331/q-2026-02-09-1998) &bull; 36 pages &bull; [arXiv.2509.05981v3](https://arxiv.org/abs/2505.05981v3)<br> </li>
+[*Quantum 10*, p. 1998, 2026](https://doi.org/10.22331/q-2026-02-09-1998) &bull; 36 pages &bull; [arXiv.2509.05981v3](https://arxiv.org/abs/2505.05981v3)<br>
 
 <span style="color: #008080">*Attraction of the core and the cohesion flow*</span><br>
 Dylan Laplace Mermoud<br>
-[*Theory and Decision 99*, pp. 377-392, 2025](https://rdcu.be/evK06) &bull; 15 pages &bull; [arXiv.2507.02918](https://arxiv.org/abs/2507.02918)<br> </li>
+[*Theory and Decision 99*, pp. 377-392, 2025](https://rdcu.be/evK06) &bull; 15 pages &bull; [arXiv.2507.02918](https://arxiv.org/abs/2507.02918)<br>
 
 <span style="color: #008080">*Minimal balanced collections and their application to core stability and other topics of game theory*</span><br>
 Dylan Laplace Mermoud, Michel Grabich, Peter Sudhölter<br>
-[*Discrete Applied Mathematics 341*, pp. 60-81, 2023](https://doi.org/10.1016/j.dam.2023.07.025) &bull; 32 pages &bull; [arXiv.2507.05898](https://arxiv.org/abs/2507.05898)<br> </li>
+[*Discrete Applied Mathematics 341*, pp. 60-81, 2023](https://doi.org/10.1016/j.dam.2023.07.025) &bull; 32 pages &bull; [arXiv.2507.05898](https://arxiv.org/abs/2507.05898)<br>
 
 ### --------------- Proceedings 
 
@@ -62,10 +66,6 @@ Pedro García-Segador, Michel Grabisch, Dylan Laplace Mermoud, Pedro Miranda<br>
 <span style="color: #008080">*Sampled-Based Guided Quantum Walk: Non-variational quantum algorithm for combinatorial optimization*</span><br>
 Ugo Nzongani, Dylan Laplace Mermoud, Giuseppe Di Molfetta, Andrea Simonetto<br> 
 [*arXiv preprint arXiv.2509.15138*](https://arxiv.org/abs/2509.15138) (Revised and resubmitted) &bull; 2025 &bull; 27 pages<br>
-
-<span style="color: #008080">*The algebraic structures of social organizations: the operad of cooperative games*</span><br>
-Dylan Laplace Mermoud, Victor Roca i Lucio<br>
-[*arXiv preprint arXiv.2507.01969*](https://arxiv.org/abs/2507.01969) (Revised and resubmitted) &bull; 2025 &bull; 49 pages<br>
 
 <span style="color: #008080">*Diffusion in dynamic networks with time-varying inputs to allocate responsibility*</span><br>
 Rosa van den Ende, Dylan Laplace Mermoud<br>
