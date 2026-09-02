@@ -3,8 +3,6 @@ title: "Research"
 description: "Research activities and outcomes."
 ---
 
-My work belongs to three overlapping fields: quantum information and algorithms, algebraic combinatorics, and game theory. I participate in the [HQI initiative](https://www.hqi.fr/en/initiative/), from the French national quantum plan, which funds my postdoc together with the [Fondation Mathématique Jacques Hadamard](https://fondation-hadamard.fr/en/). 
-
 <a href="#areas-of-interest" class="button research">Areas of interest</a> <a href="#supervision" class="button research">Supervision</a> <a href="#publications-proceedings--preprints" class="button research">Publications</a> <a href="#communications" class="button research">Communication</a> <a href="#collaborators" class="button research">Collaborators</a>
 
 
@@ -30,7 +28,7 @@ For an updated list of articles, see [my arXiv page](https://arxiv.org/a/laplace
 
 <span style="color: #008080">*The algebraic structures of social organizations: the operad of cooperative games*</span><br>
 Dylan Laplace Mermoud, Victor Roca i Lucio<br>
-[*Algebraic Combinatorics*](https://alco.centre-mersenne.org) &bull; 2026 &bull; 49 pages &bull; [arXiv.2507.01969](https://arxiv.org/abs/2507.01969)<br>
+[*Algebraic Combinatorics 9*, pp. 1067-1117](https://doi.org/10.5802/alco.504) &bull; 51 pages &bull; [arXiv.2507.01969](https://arxiv.org/abs/2507.01969)<br>
 
 <span style="color: #008080">*Variational quantum algorithms for permutation-based combinatorial problems: Optimal ansatz generation with applications to quadratic assignment problems and beyond*</span><br>
 Dylan Laplace Mermoud, Andrea Simonetto, Sourour Elloumi<br>
@@ -48,7 +46,7 @@ Dylan Laplace Mermoud, Michel Grabich, Peter Sudhölter<br>
 
 <span style="color: #008080">*Scaling QAOA: transferring optimal adiabatic schedules from small-scale to large-scale variational circuits*</span><br>
 Ugo Nzongani, Dylan Laplace Mermoud, Arthur Braida<br> 
-[*2026 International Conference on Quantum Control, Computing and Learning (qCCL)*](https://www.ieeeqccl2026.com/program) &bull; 2026 &bull; 6 pages &bull; [arXiv.2602.14986](https://arxiv.org/abs/2602.14986)<br>
+[*2026 International Conference on Quantum Control, Computing and Learning (qCCL)*](https://doi.org/10.1109/qCCL70331.2026.11668574) &bull; 6 pages &bull; [arXiv.2602.14986](https://arxiv.org/abs/2602.14986)<br>
 
 <span style="color: #008080">*Combinatorics on Social Configurations*</span><br>
 Dylan Laplace Mermoud, Pierre Popoli<br>
