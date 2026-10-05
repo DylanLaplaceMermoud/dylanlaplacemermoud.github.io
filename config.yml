@@ -94,7 +94,7 @@ params:
         # - name: Twitter
         #   url: https://twitter.com/pmichaillat
         - name: Email
-          url: mailto:dylan.laplace.mermoud@gmail.com
+          url: mailto:dylan.laplace_mermoud@sorbonne-universite.fr
 
     assets:
         disableHLJS: true
