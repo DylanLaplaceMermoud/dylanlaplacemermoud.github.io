@@ -21,7 +21,7 @@ For an updated list of articles, see [my arXiv page](https://arxiv.org/a/laplace
 
 <span style="color: #008080">*Sampled-Based Guided Quantum Walk: Non-variational quantum algorithm for combinatorial optimization*</span><br>
 Ugo Nzongani, Dylan Laplace Mermoud, Giuseppe Di Molfetta, Andrea Simonetto<br> 
-[*Quantum 10*, p. 2234, 2026](https://doi.org/10.22331/q-2026-10-13-2234) &bull; 46 pages &bull; [arXiv.2509.15138](https://arxiv.org/abs/2509.15138)<br>
+[*Quantum 10*, p. 2234, 2026](https://doi.org/10.22331/q-2026-10-13-2234) &bull; 46 pages &bull; [arXiv.2509.15138](https://arxiv.org/abs/2509.15138v3)<br>
 
 <span style="color: #008080">*The algebraic structures of social organizations: the operad of cooperative games*</span><br>
 Dylan Laplace Mermoud, Victor Roca i Lucio<br>
