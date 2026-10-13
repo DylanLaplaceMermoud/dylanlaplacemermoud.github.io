@@ -3,7 +3,7 @@ title: "Research"
 description: "Research activities and outcomes."
 ---
 
-<a href="#areas-of-interest" class="button research">Areas of interest</a> <a href="#supervision" class="button research">Supervision</a> <a href="#publications-proceedings--preprints" class="button research">Publications</a> <a href="#communications" class="button research">Communication</a> <a href="#collaborators" class="button research">Collaborators</a>
+<a href="#areas-of-interest" class="button research">Areas of interest</a> <a href="#publications-proceedings--preprints" class="button research">Publications</a> <a href="#supervision" class="button research">Supervision</a> <a href="#communications" class="button research">Communication</a> <a href="#collaborators" class="button research">Collaborators</a>
 
 
 ## Areas of interest
@@ -13,18 +13,15 @@ Currently, I am working on
 - quantum algorithms for algebraic problems. 
 
 
-## Supervision
-
-[Paul-Henri Djoko](https://www.linkedin.com/in/paul-henri-djoko-abb604207/) (2026), Master 1, on reinforcement learning in game theory.<br>
-[Bruno Galibert](https://www.linkedin.com/in/bruno-galibert/) (2025), Master 1, on quantum circuit simplification.<br>
-[Qui Loc Phan](https://locphan2001.github.io) (2024), Master 1, on quantum circuit design and combinatorial optimization. 
-
-
 ## Publications, proceedings & preprints
 
 For an updated list of articles, see [my arXiv page](https://arxiv.org/a/laplacemermoud_d_1.html).
 
 ### --------------- Publications
+
+<span style="color: #008080">*Sampled-Based Guided Quantum Walk: Non-variational quantum algorithm for combinatorial optimization*</span><br>
+Ugo Nzongani, Dylan Laplace Mermoud, Giuseppe Di Molfetta, Andrea Simonetto<br> 
+[*Quantum 10*, p. 2234, 2026](https://doi.org/10.22331/q-2026-10-13-2234) &bull; 46 pages &bull; [arXiv.2509.15138](https://arxiv.org/abs/2509.15138)<br>
 
 <span style="color: #008080">*The algebraic structures of social organizations: the operad of cooperative games*</span><br>
 Dylan Laplace Mermoud, Victor Roca i Lucio<br>
@@ -54,13 +51,13 @@ Dylan Laplace Mermoud, Pierre Popoli<br>
 
 ### --------------- Preprints 
 
+<span style="color: #008080">*Circuit Design Problems in Binary Polynomial Quantum Optimization*</span><br>
+Dylan Laplace Mermoud, Dimitri Watel, Sourour Elloumi, Andrea Simonetto<br>
+[*arXiv preprint arXiv.2610.13283*](https://arxiv.org/abs/2610.13283) &bull; 2026 &bull; 26 pages <br>
+
 <span style="color: #008080">*On the closest balanced game*</span><br>
 Pedro García-Segador, Michel Grabisch, Dylan Laplace Mermoud, Pedro Miranda<br> 
-[*arXiv preprint arXiv.2601.15318*](](https://arxiv.org/abs/2601.15318)) (Under review) &bull; 2025 &bull; 31 pages<br>
-
-<span style="color: #008080">*Sampled-Based Guided Quantum Walk: Non-variational quantum algorithm for combinatorial optimization*</span><br>
-Ugo Nzongani, Dylan Laplace Mermoud, Giuseppe Di Molfetta, Andrea Simonetto<br> 
-[*arXiv preprint arXiv.2509.15138*](https://arxiv.org/abs/2509.15138) (Revised and resubmitted) &bull; 2025 &bull; 27 pages<br>
+[*arXiv preprint arXiv.2601.15318*](https://arxiv.org/abs/2601.15318) &bull; 2025 &bull; 31 pages<br>
 
 <span style="color: #008080">*Diffusion in dynamic networks with time-varying inputs to allocate responsibility*</span><br>
 Rosa van den Ende, Dylan Laplace Mermoud<br>
@@ -84,13 +81,20 @@ Dylan Laplace Mermoud<br>
 &emsp; Link: [*arXiv preprint arXiv.2301.02950*](https://arxiv.org/abs/2301.02950)
 
 
+## Supervision
+
+[Paul-Henri Djoko](https://www.linkedin.com/in/paul-henri-djoko-abb604207/) (2026), Master 1, on reinforcement learning in game theory.<br>
+[Bruno Galibert](https://www.linkedin.com/in/bruno-galibert/) (2025), Master 1, on quantum circuit simplification.<br>
+[Qui Loc Phan](https://locphan2001.github.io) (2024), Master 1, on quantum circuit design and combinatorial optimization. 
+
+
 ## Communications 
 
 [Q]: quantum talk, [GT]: game theory talk, [AC]: algebraic combinatorics talk
 
 ### --------------- 2026
 
-- [Q] [SIAM conference on Optimization](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, United Kingdom (forthcoming)
+- [Q] [SIAM conference on Optimization](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, United Kingdom
 - [Q] 27th [ROADEF congress](https://roadef2026.sciencesconf.org), Tours, France
 
 ### --------------- 2025
@@ -148,11 +152,11 @@ Dylan Laplace Mermoud<br>
 
 ## Collaborators
 
-- [Corentin Bertrand](https://www.linkedin.com/in/corentinbertrand/?locale=fr_FR), Eviden Quantum Lab,
+- [Corentin Bertrand](https://www.linkedin.com/in/corentinbertrand/?locale=fr_FR), Bull Quantum Lab,
 - [Mikhail V. Bludov](https://sites.google.com/view/mikhailbludov/главная-страница), Laboratory of Combinatorial and Geometric Structures, MIPT, 
 - [Arthur Braida](https://arts-braido.github.io), IRIF, Université Paris Cité, 
 - [Sourour Elloumi](https://perso.ensta.fr/~elloumi/), UMA, ENSTA and Cedric, CNAM, and ensIIE, 
-- [Rosa van den Ende](https://rosavandenende.github.io), CES, Université Paris I Panthéon-Sorbonne, 
+- [Rosa van den Ende](https://rosavandenende.github.io), RPTU Kaiserslautern-Landau, 
 - [Pedro García Segador](https://docta.ucm.es/entities/person/5416c727-ae1e-4a30-9118-a87352c1a7be?view=grid&spc.page=1&f.dateIssued.min=2014), National Statistical Institute of Spain, 
 - [Michel Grabisch](https://sites.google.com/site/michelgrabisch/), CES, Université Paris I Panthéon-Sorbonne and AGATE, Charles University,
 - [Pedro Miranda](https://www.ucm.es/imi/pedro-miranda-menendez), IMI, Universidad Complutense Madrid, 
@@ -164,4 +168,4 @@ Dylan Laplace Mermoud<br>
 - Colin Stastny, Universität Konstanz, 
 - [Peter Sudhölter](https://link.springer.com/content/pdf/10.1007/s00182-024-00903-5.pdf), Department of Economics, University of Southern Denmark,
 - [Dimitri Watel](http://dimitri.watel.free.fr), CEDRIC, CNAM and ensIIE,  
-- Andrea Zatti, Politecnico di Milano. 
+- [Andrea Zatti](https://www.linkedin.com/in/andrea-zatti-558057190), UMA, ENSTA. 
