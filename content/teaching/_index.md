@@ -9,6 +9,7 @@ description: "List of the different tutorials and classes I gave."
 
 - Modèles et algorithmes probabilistes et statistiques pour l'informatique
 - Modélisation, optimisation, graphes, et programmation linéaire
+- Structures de données et programmation en C
 - Algorithmique II
 
 {{< details title="Années précédentes" >}}

@@ -69,24 +69,24 @@ params:
             # - name: Archive
             #   url: archive/
     socialIcons:
-        - name: hal
-          url: https://cv.hal.science/dylan-laplace-mermoud
+        # - name: hal
+        #   url: https://cv.hal.science/dylan-laplace-mermoud
         - name: arXiv
           url: http://arxiv.org/a/laplacemermoud_d_1
-        - name: orcid
-          url: https://orcid.org/0000-0002-1508-9656
+        # - name: orcid
+        #   url: https://orcid.org/0000-0002-1508-9656
         # - name: CV
         #   url: cv.pdf
         # - name: Location
         #   url: location/
         # - name: Office Hours
         #   url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=haznRHoAAAAJ&hl=fr&oi=ao
+        # - name: Google Scholar
+        #   url: https://scholar.google.com/citations?user=haznRHoAAAAJ&hl=fr&oi=ao
         # - name: YouTube
         #   url: https://www.youtube.com/@pmichaillat
-        - name: GitLab
-          url: https://gitlab.com/DylanLaplaceMermoud
+        # - name: GitLab
+        #   url: https://gitlab.com/DylanLaplaceMermoud
         - name: GitHub
           url: https://github.com/DylanLaplaceMermoud
         # - name: Substack
